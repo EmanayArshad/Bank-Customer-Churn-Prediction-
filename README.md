@@ -24,10 +24,10 @@ This project uses classification algorithms to predict churn based on customer f
 ---
 
 ## Repository Structure
-- ├── Bank_Customer_Churn_Prediction_Using_Mac.pdf # Literature review paper
-- ├── Churn_Modelling.csv # Dataset
-- ├── DataScience_Project.ipynb # Jupyter Notebook (Model training & evaluation)
-- ├── README.md # Project Documentation
+-├── Bank_Customer_Churn_Prediction_Using_Mac.pdf # Literature review paper
+-├── Churn_Modelling.csv # Dataset
+-├── DataScience_Project.ipynb # Jupyter Notebook (Model training & evaluation)
+-├── README.md # Project Documentation
 
 
 ---
@@ -70,13 +70,11 @@ Random Forest performed the best in this project.
    ```bash
    git clone https://github.com/your-username/bank-customer-churn-prediction.git
    cd bank-customer-churn-prediction
-Install dependencies:
+   
+2.Install dependencies:
+   ```bash
+    pip install -r requirements.txt
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the Jupyter Notebook:
-
-bash
-Copy code
-jupyter notebook DataScience_Project.ipynb
+3.Run the Jupyter Notebook:
+    ```bash
+    jupyter notebook DataScience_Project.ipynb
