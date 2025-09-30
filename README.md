@@ -24,10 +24,10 @@ This project uses classification algorithms to predict churn based on customer f
 ---
 
 ## Repository Structure
-├── Bank_Customer_Churn_Prediction_Using_Mac.pdf # Literature review paper
-├── Churn_Modelling.csv # Dataset
-├── DataScience_Project.ipynb # Jupyter Notebook (Model training & evaluation)
-├── README.md # Project Documentation
+- ├── Bank_Customer_Churn_Prediction_Using_Mac.pdf # Literature review paper
+- ├── Churn_Modelling.csv # Dataset
+- ├── DataScience_Project.ipynb # Jupyter Notebook (Model training & evaluation)
+- ├── README.md # Project Documentation
 
 
 ---
@@ -41,8 +41,7 @@ This project uses classification algorithms to predict churn based on customer f
   - Random Forest
   - K-Nearest Neighbors
   - AdaBoost
-  - Gradient Boosting
-  - XGBoost
+  - Support Vector Machine 
 - Model evaluation with:
   - Accuracy
   - Confusion Matrix
@@ -58,9 +57,8 @@ This project uses classification algorithms to predict churn based on customer f
 | Decision Tree           | ~79%     |
 | Random Forest           | ~87%     |
 | KNN                     | ~83%     |
-| AdaBoost                | ~84%     |
-| Gradient Boosting       | ~85%     |
-| XGBoost                 | ~86%     |
+| AdaBoost                | ~84%     | 
+| SVM                     | ~72%     |
 
 Random Forest performed the best in this project.
 
@@ -74,11 +72,16 @@ Random Forest performed the best in this project.
 2.Install dependencies:
    ```bash
     pip install -r requirements.txt
+
+---
+
 3.Run the Jupyter Notebook:
    ```bash
     jupyter notebook DataScience_Project.ipynb
 
-## Reference
+---
+
+## **Reference**
 This project is inspired by the paper:
 "Bank Customer Churn Prediction Using Machine Learning"
 S. Likhit Kumar, G. Sandilya Srinivas, J. Pavan Ganesh, M. Shailaja
