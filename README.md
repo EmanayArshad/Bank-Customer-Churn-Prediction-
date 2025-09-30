@@ -65,24 +65,18 @@ Random Forest performed the best in this project.
 ---
 
 ## Installation & Usage
+
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/bank-customer-churn-prediction.git
    cd bank-customer-churn-prediction
-2.Install dependencies:
-   ```bash
-    pip install -r requirements.txt
+Install dependencies:
 
----
+bash
+Copy code
+pip install -r requirements.txt
+Run the Jupyter Notebook:
 
-3.Run the Jupyter Notebook:
-   ```bash
-    jupyter notebook DataScience_Project.ipynb
-
----
-
-## **Reference**
-This project is inspired by the paper:
-"Bank Customer Churn Prediction Using Machine Learning"
-S. Likhit Kumar, G. Sandilya Srinivas, J. Pavan Ganesh, M. Shailaja
-IJRASET, 2021
+bash
+Copy code
+jupyter notebook DataScience_Project.ipynb
