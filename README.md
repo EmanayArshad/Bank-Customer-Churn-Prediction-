@@ -24,7 +24,7 @@ This project uses classification algorithms to predict churn based on customer f
 ---
 
 ## Repository Structure
--├── Bank_Customer_Churn_Prediction_Using_Mac.pdf # Literature review paper
+-├── Bank_Customer_Churn_Prediction_Using_Mac.pdf # Literature review paper\n
 -├── Churn_Modelling.csv # Dataset
 -├── DataScience_Project.ipynb # Jupyter Notebook (Model training & evaluation)
 -├── README.md # Project Documentation
