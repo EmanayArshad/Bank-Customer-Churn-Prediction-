@@ -70,6 +70,7 @@ Random Forest performed the best in this project.
    ```bash
    git clone https://github.com/your-username/bank-customer-churn-prediction.git
    cd bank-customer-churn-prediction
+   ```
    
 2.Install dependencies:
    ```bash
