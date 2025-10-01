@@ -64,7 +64,7 @@ Random Forest performed the best in this project.
 
 ---
 
-## Installation & Usage 🛠️
+## Installation & Usage
 
 1.  **Clone this repository:**
     ```bash
