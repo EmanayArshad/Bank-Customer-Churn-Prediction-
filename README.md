@@ -68,7 +68,7 @@ Random Forest performed the best in this project.
 
 1.  **Clone this repository:**
     ```bash
-    git clone [https://github.com/EmanayArshad/bank-customer-churn-prediction.git](https://github.com/EmanayArshad/bank-customer-churn-prediction.git)
+    git clone https://github.com/EmanayArshad/Bank-Customer-Churn-Prediction-.git
     cd bank-customer-churn-prediction
     ```
 
