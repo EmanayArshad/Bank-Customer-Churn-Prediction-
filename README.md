@@ -64,19 +64,20 @@ Random Forest performed the best in this project.
 
 ---
 
-## Installation & Usage
+## Installation & Usage 🛠️
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/bank-customer-churn-prediction.git
-   cd bank-customer-churn-prediction
-   ```
+1.  **Clone this repository:**
+    ```bash
+    git clone [https://github.com/EmanayArshad/bank-customer-churn-prediction.git](https://github.com/EmanayArshad/bank-customer-churn-prediction.git)
+    cd bank-customer-churn-prediction
+    ```
 
-2. Install dependencies:
-   ```bash
+2.  **Install dependencies:**
+    ```bash
     pip install -r requirements.txt
-   ```
+    ```
 
-3.Run the Jupyter Notebook:
+3.  **Run the Jupyter Notebook:**
     ```bash
     jupyter notebook DataScience_Project.ipynb
+    ```
